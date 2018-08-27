@@ -73,6 +73,8 @@ This class is about IoT.  [Postscapes](https://www.postscapes.com/internet-of-th
 
 ***Q5.  Based on your reviews, create a table of the top four distinguishing features of IoT applications. One column of the table should have a brief name for the feature (1-4 words) and the second column should have an explanation:***
 
+
+
 Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
 ***Q6.  For each example: 1) provide a link to it, 2) provide a brief summary of it, and 3) explain how it corresponds to distinguishing features you identified above and/or or how you may want to revise your list of distinguishing features.  Use lists/sublists to format your answer to this question (A numbered list of 2 items, each of which as 3 sub-items):***
